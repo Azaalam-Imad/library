@@ -1,0 +1,14 @@
+
+.iconSidBar:hover{
+
+    color: black;
+    cursor: pointer;
+    span{
+        background-color: rgba(233, 87, 34, 0.815);
+        .icsid{
+            color: white;
+        }
+    }
+
+}
+

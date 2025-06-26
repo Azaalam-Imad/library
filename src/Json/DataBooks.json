@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Sapiens: A Brief History of Humankind",
+    "description": "Un voyage fascinant à travers l’évolution de l’espèce humaine, depuis l'âge des chasseurs-cueilleurs jusqu'à l'ère moderne, explorant comment l'Homo sapiens a dominé la planète grâce à la coopération, la culture et l'imaginaire collectif.",
+    "price": "120 DH",
+    "photo": "book1",
+    "author": "Yuval Noah Harari",
+    "type": "historical"
+  },
+  {
+    "id": 2,
+    "name": "Guns, Germs, and Steel",
+    "description": "Une analyse percutante des facteurs géographiques, biologiques et culturels qui ont façonné les inégalités entre les civilisations. Jared Diamond explique pourquoi certains peuples ont conquis le monde, tandis que d'autres sont restés en retrait.",
+    "price": "95 DH",
+    "photo": "book2",
+    "author": "Jared Diamond",
+    "type": "historical"
+  },
+  {
+    "id": 3,
+    "name": "The Silk Roads",
+    "description": "Un regard novateur sur l’histoire mondiale à travers l’Asie, mettant en lumière l’importance des routes commerciales et des échanges culturels entre l’Orient et l’Occident, du passé antique jusqu’à l’époque contemporaine.",
+    "price": "110 DH",
+    "photo": "book3",
+    "author": "Peter Frankopan",
+    "type": "historical"
+  },
+  {
+    "id": 4,
+    "name": "A People's History of the United States",
+    "description": "Une réécriture audacieuse de l’histoire américaine racontée du point de vue des opprimés — ouvriers, esclaves, femmes, peuples autochtones — qui ont souvent été oubliés des récits traditionnels.",
+    "price": "105 DH",
+    "photo": "book4",
+    "author": "Howard Zinn",
+    "type": "historical"
+  },
+  {
+    "id": 5,
+    "name": "The Prince",
+    "description": "Un manuel politique classique qui explore les rouages du pouvoir, de la manipulation et de la gouvernance. Machiavel y expose les stratégies qu’un dirigeant doit adopter pour conserver son autorité dans un monde instable.",
+    "price": "85 DH",
+    "photo": "book5",
+    "author": "Niccolò Machiavelli",
+    "type": "political"
+  },
+  {
+    "id": 6,
+    "name": "The Art of War",
+    "description": "Un traité intemporel sur la stratégie, la tactique militaire et la psychologie du conflit. Les enseignements de Sun Tzu sont toujours utilisés dans les affaires, le sport et les relations humaines modernes.",
+    "price": "70 DH",
+    "photo": "book6",
+    "author": "Sun Tzu",
+    "type": "political"
+  },
+  {
+    "id": 7,
+    "name": "The Communist Manifesto",
+    "description": "Un appel révolutionnaire à la fin des inégalités économiques. Marx et Engels y présentent leur vision du communisme, de la lutte des classes et du renversement du capitalisme pour une société plus juste.",
+    "price": "65 DH",
+    "photo": "book7",
+    "author": "Karl Marx & Friedrich Engels",
+    "type": "political"
+  }
+]
